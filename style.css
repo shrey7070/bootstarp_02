@@ -1,0 +1,27 @@
+body{
+    background: url("Img/back.png") no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size:cover;
+    font-family: 'Lobster', cursive;
+}
+.rowHeight{
+    height: 500px;
+}
+h1{
+    color: #000;
+    font-size: 3.2em;
+}
+.bg{
+    background-color: #c1c1c1;
+    opacity: 0.8;
+}
+.footer{
+    background-color: #fff;
+    bottom:0;
+    position: fixed;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 5px;
+}
